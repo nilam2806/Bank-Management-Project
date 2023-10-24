@@ -24,7 +24,7 @@ public class Main {
 			System.out.println("****************************************");
 			System.out.println("1. Customer Portal \r\n"
 					+ "2. Admin Portal \r\n");
-			System.out.println("Choose your option");
+			System.out.println("Choose your option :");
 			
 			
 			
